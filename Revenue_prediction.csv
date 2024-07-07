@@ -1,0 +1,24 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue,Predicted_Revenue
+2018-07-01,1,June,2020,33,Young Adults (25-34),F,Uganda,Western,Accessories,Tires and Tubes,Patch Kit/8 Patches,100,1,2,30,30,,2.0
+2018-07-01,1,July,2020,41,Adults (35-64),M,Uganda,Eastern,Accessories,Bottles and Cages,Road Bottle Cage,28,3,9,168,84,,2.0
+2018-07-01,1,August,2020,33,Young Adults (25-34),F,Uganda,Northern,Accessories,Tires and Tubes,Patch Kit/8 Patches,24,1,2,24,24,,2.0
+2018-07-01,1,September,2020,37,Adults (35-64),M,Uganda,South_West,Accessories,Tires and Tubes,LL Road Tire,24,6,3,312,192,,2.0
+2018-07-01,1,October,2020,30,Young Adults (25-34),F,Uganda,Southern,Accessories,Tires and Tubes,Road Tire Tube,22,1,4,66,22,,2.0
+2018-07-01,1,November,2020,42,Adults (35-64),F,Uganda,North_East,Accessories,Tires and Tubes,Patch Kit/8 Patches,22,1,2,22,89,,2.0
+2018-07-01,1,December,2020,42,Adults (35-64),F,Uganda,Central,Accessories,Tires and Tubes,Patch Kit/8 Patches,21,1,2,21,21,,2.0
+2018-07-01,1,January,2020,19,Youth (<25),F,Uganda,Eastern,Accessories,Bottles and Cages,Water Bottle - 30 oz.,19,2,5,57,38,,2.0
+2018-07-01,1,February,2020,37,Adults (35-64),M,Uganda,Western,Accessories,Tires and Tubes,LL Road Tire,12,8,21,156,96,,2.0
+2018-07-01,1,March,2020,19,Youth (<25),F,Uganda,Western,Accessories,Bottles and Cages,Water Bottle - 30 oz.,11,2,5,30,20,,2.0
+2018-07-01,1,April,2020,19,Youth (<25),F,Uganda,Eastern,Accessories,Helmets,"Sport-100 Helmet, Red",9,13,56,198,117,,2.0
+2018-07-01,1,May,2020,30,Young Adults (25-34),M,Uganda,Northern,Accessories,Tires and Tubes,ML Road Tire,8,9,25,128,72,,2.0
+2018-07-01,1,June,2020,19,Youth (<25),F,Uganda,South_West,Clothing,Jerseys,"Long-Sleeve Logo Jersey, M",5,38,50,67,190,,2.0
+2018-07-01,1,July,2021,41,Adults (35-64),M,Uganda,Southern,Accessories,Bottles and Cages,Road Bottle Cage,6,3,9,30,15,,2.0
+2018-07-01,1,August,2021,30,Young Adults (25-34),F,Uganda,North_East,Accessories,Tires and Tubes,Road Tire Tube,3,1,4,9,3,,2.0
+2018-07-01,1,September,2021,28,Young Adults (25-34),F,Uganda,Central,Accessories,Bottles and Cages,Water Bottle - 30 oz.,2,2,5,6,4,,2.0
+2018-07-01,1,October,2021,29,Young Adults (25-34),F,Uganda,Eastern,Clothing,Jerseys,"Short-Sleeve Classic Jersey, L",2,42,54,24,84,,2.0
+2018-07-01,1,November,2021,42,Adults (35-64),F,Uganda,Western,Accessories,Helmets,"Sport-100 Helmet, Blue",2,13,35,44,26,,2.0
+2018-07-02,2,December,2021,32,Young Adults (25-34),F,Uganda,Island,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,90,60,,2.0
+2018-07-02,2,January,2021,45,Adults (35-64),F,Uganda,Island,Accessories,Bottles and Cages,Water Bottle - 30 oz.,30,2,5,90,60,,2.0
+2018-07-02,2,February,2021,35,Adults (35-64),M,Uganda,Western,Clothing,Caps,AWC Logo Cap,29,7,9,58,203,,2.0
+2018-07-02,2,March,2021,45,Adults (35-64),F,Uganda,Northern,Accessories,Bottles and Cages,Water Bottle - 30 oz.,29,2,4,87,58,,2.0
+2018-07-02,2,April,2021,25,Young Adults (25-34),F,Uganda,Central,Accessories,Bottles and Cages,Mountain Bottle Cage,23,4,10,138,92,,2.0
